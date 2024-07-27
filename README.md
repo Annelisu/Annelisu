@@ -2,8 +2,8 @@ Hi my name is Annelise and I'm currently majoring in system information and busi
 - I'm just showcasing my projects and what I've done during my course at Macquarie University
 - ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-   /ᐢ⑅ᐢ\   ♡   ₊˚  
-꒰ ˶• ༝ •˶꒱       ♡‧₊˚    ♡
-./づ~ :¨·.·¨:     ₊˚  
-           `·..·‘    ₊˚   ♡
+-    /ᐢ⑅ᐢ\   ♡   ₊˚  
+- ꒰ ˶• ༝ •˶꒱       ♡‧₊˚    ♡
+- ./づ~ :¨·.·¨:     ₊˚  
+ -           `·..·‘    ₊˚   ♡
 
