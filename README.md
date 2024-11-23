@@ -13,8 +13,8 @@ I'm currently majoring in **System Information and Business Analysis** at **Macq
 
 ### 🌟 Featured Projects
 Here are some of the projects I’ve worked on during my course:  
-- **[Project Name 1](#):** Brief description (e.g., "A SQL-based solution for optimising student enrolment systems.")  
-- **[Project Name 2](#):** Brief description (e.g., "A dashboard for analysing business performance using Power BI.")  
+- Student Database management system
+- KNN classification, Naive Bayes analysis, etc
 
 ---
 
